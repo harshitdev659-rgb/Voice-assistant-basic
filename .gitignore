@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+*/.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*/__pycache__/
+*.py[cod]
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
